@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2-Method Uygulaması/1.0.0": {
+        "runtime": {
+          "2-Method Uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-Method Uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

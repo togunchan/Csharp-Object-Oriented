@@ -1,0 +1,13 @@
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\bin\Debug\netcoreapp3.1\4-Properties.exe
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\bin\Debug\netcoreapp3.1\4-Properties.deps.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\bin\Debug\netcoreapp3.1\4-Properties.runtimeconfig.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\bin\Debug\netcoreapp3.1\4-Properties.runtimeconfig.dev.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\bin\Debug\netcoreapp3.1\4-Properties.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\bin\Debug\netcoreapp3.1\4-Properties.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.AssemblyInfoInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.AssemblyInfo.cs
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\4-Properties\obj\Debug\netcoreapp3.1\4-Properties.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\bin\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.exe
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\bin\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.deps.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\bin\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.runtimeconfig.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\bin\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.runtimeconfig.dev.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\bin\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\bin\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.AssemblyInfo.cs
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\3-Yapıcı Metot Uygulaması\obj\Debug\netcoreapp3.1\3-Yapıcı Metot Uygulaması.genruntimeconfig.cache

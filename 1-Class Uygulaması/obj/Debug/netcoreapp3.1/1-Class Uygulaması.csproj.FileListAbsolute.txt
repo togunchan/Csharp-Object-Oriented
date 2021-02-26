@@ -1,0 +1,13 @@
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\bin\Debug\netcoreapp3.1\1-Class Uygulaması.exe
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\bin\Debug\netcoreapp3.1\1-Class Uygulaması.deps.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\bin\Debug\netcoreapp3.1\1-Class Uygulaması.runtimeconfig.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\bin\Debug\netcoreapp3.1\1-Class Uygulaması.runtimeconfig.dev.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\bin\Debug\netcoreapp3.1\1-Class Uygulaması.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\bin\Debug\netcoreapp3.1\1-Class Uygulaması.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.AssemblyInfo.cs
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\1-Class Uygulaması\obj\Debug\netcoreapp3.1\1-Class Uygulaması.genruntimeconfig.cache
