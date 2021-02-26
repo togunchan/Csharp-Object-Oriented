@@ -1,0 +1,13 @@
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\bin\Debug\netcoreapp3.1\5-Quiz Uygulaması.exe
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\bin\Debug\netcoreapp3.1\5-Quiz Uygulaması.deps.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\bin\Debug\netcoreapp3.1\5-Quiz Uygulaması.runtimeconfig.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\bin\Debug\netcoreapp3.1\5-Quiz Uygulaması.runtimeconfig.dev.json
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\bin\Debug\netcoreapp3.1\5-Quiz Uygulaması.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\bin\Debug\netcoreapp3.1\5-Quiz Uygulaması.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.AssemblyInfo.cs
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.dll
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.pdb
+C:\Users\Toğunçhan\Desktop\C#\Nesne Tabanlı Programlama\5-Quiz Uygulaması\obj\Debug\netcoreapp3.1\5-Quiz Uygulaması.genruntimeconfig.cache
